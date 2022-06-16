@@ -1,4 +1,4 @@
-# Wine Quality Report.
+# Wine Quality Report
 
 In this repo, we applied our knowledge in R to establish some results.
 
