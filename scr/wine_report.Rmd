@@ -122,6 +122,6 @@ ggcorrplot(cor(wine), hc.order = TRUE,
 
 ## Conclusion
 
-We used a statistical methods using R script and we figured out that the more quality the wine has, almost the more people buy it, and the most correlated feature to the quality is the amount of alcohol.
+We used statistical methods using R script and we figured out that the more quality the wine has, almost the more people buy it, and the most correlated feature to the quality is the amount of alcohol.
 
 
